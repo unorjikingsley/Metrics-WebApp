@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #a50e63;
+  padding: 2rem;
+  color: aliceblue;
+  display: flex;
+  background-image: url('globe.webp');
+  height: 50vh;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.globe {
+  display: flex;
+}
+
+.fa-globe {
+  font-size: 50px;
+}
+
+.header_logo {
+  display: flex;
+}
