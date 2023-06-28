@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<button
+  type="button"
+>
+  <div
+    className="arrow"
+  >
+    <i
+      className="fa-solid fa-circle-arrow-right arrow white"
+    />
+  </div>
+  <div
+    className="flags"
+  >
+    <img
+      alt="a country's graphic rep"
+      className="graphics"
+    />
+    <div
+      className="details"
+    >
+      <h2
+        className="countryname color"
+      />
+      <h3
+        className="color"
+      >
+         
+        Capital :
+         
+      </h3>
+      <h3
+        className="color"
+      >
+         
+        Population :
+         
+      </h3>
+      <h3
+        className="color"
+      >
+         
+        Region :
+         
+      </h3>
+    </div>
+  </div>
+</button>
+`;

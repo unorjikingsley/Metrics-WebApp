@@ -1,0 +1,34 @@
+body {
+  background-color: #b9277c;
+}
+
+.all {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+  gap: 20px;
+}
+
+.theinfo {
+  display: flex;
+  flex-direction: column;
+  background-color: #4c0830;
+  color: aliceblue;
+  font-size: 15px;
+  padding: 1%;
+  gap: 15px;
+}
+
+.flag {
+  width: 500px;
+  height: auto;
+}
+
+.back-icon {
+  display: flex;
+  gap: 5px;
+  color: white;
+  text-decoration: none;
+}
