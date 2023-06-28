@@ -13,8 +13,8 @@ function Country({
         <i className="fa-solid fa-circle-arrow-right arrow white" />
       </div>
       <div className="sec">
-        <Icon icon={longArrowRight} size={20} />
         <h4 className="back-text">Click to see more stats</h4>
+        <Icon icon={longArrowRight} size={20} />
       </div>
 
       <div className="flags">

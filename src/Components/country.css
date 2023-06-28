@@ -69,4 +69,5 @@ button:hover {
   background-color: rgb(182, 181, 181);
   padding-top: 5px;
   padding-bottom: 5px;
+  gap: 5px;
 }
