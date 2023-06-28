@@ -2,7 +2,6 @@
   "name": "metrics-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://unorjikingsley.github.io/Metrics-WebApp",
   "jest": {
     "moduleNameMapper": {
       "axios": "axios/dist/axios"
