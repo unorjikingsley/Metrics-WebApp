@@ -1,8 +1,44 @@
+.next-head {
+  display: flex;
+
+  /* width: 100%; */
+
+  justify-content: center;
+
+  /* text-align: center; */
+
+  /* align-items: center; */
+}
+
+.whole {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 20px 30px 20px;
+}
+
+.mic-setting {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.white {
+  fill: white;
+}
+
+.back-arrow {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
 .input {
   display: flex;
   background-color: #b9277c;
-  padding-bottom: 4rem;
-  padding-top: 1rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 1000px;
 }
 
 .useinput {

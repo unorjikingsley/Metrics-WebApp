@@ -57,7 +57,8 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Space-Travelers-Hub <a name="about-project"></a>
+# 📖 Population-Metrics-App <a name="about-project"></a>
+- **Population metrics app is a website that help individuals get data about all the countries and their location. This would help spead up research processes for students and also researchers.
 
 **Population Metric** .
 
@@ -161,11 +162,6 @@ To run tests, run the following command:
 
 - GitHub: [@UnorjiKingsley](https://github.com/unorjikingsley)
 - LinkedIn: [Unorji Kingsley](https://www.linkedin.com/in/unorjikingsley/)
-
-<!-- 👤 **Charles Andrews**
-
-- GitHub: [@charlesAndrews](https://github.com/forLoop94)
-- LinkedIn: [Charles Andrews](https://https://www.linkedin.com/in/andrewsCharlesUwem/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
