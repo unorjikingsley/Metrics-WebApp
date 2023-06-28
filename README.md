@@ -90,6 +90,8 @@ For more information on the importance of a professional README for your reposit
 
 - [Live Demo Link](https://globetrot.netlify.app/)
 
+- [Loom App Explaination](https://www.loom.com/share/4eadebd251fc43ecb15dfdcbc0796327?sid=09ac4b9b-e869-4515-a801-f5d8a8dd8d54)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
