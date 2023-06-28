@@ -1,6 +1,8 @@
 import React from 'react';
 import './details.css';
-import { useLocation } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
+import Icon from 'react-icons-kit';
+import { circleLeft } from 'react-icons-kit/icomoon/circleLeft';
 
 const Details = () => {
   const location = useLocation();
@@ -11,6 +13,12 @@ const Details = () => {
       {country.map((country) => (
         <div key={country.capital}>
           <div className="all">
+            <div className="icon-btn">
+              <Link to="/" className="back-icon">
+                <Icon icon={circleLeft} size={20} />
+                <h4 className="back-text">Back to Home Page</h4>
+              </Link>
+            </div>
             <div className="img">
               <img className="flag" alt="a flag" src={country.flags.png} />
             </div>
@@ -39,7 +47,6 @@ const Details = () => {
             </div>
           </div>
         </div>
-
       ))}
     </>
   );
