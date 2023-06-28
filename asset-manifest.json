@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Metrics-WebApp/static/css/main.177dcf51.css",
-    "main.js": "/Metrics-WebApp/static/js/main.28cecacb.js",
+    "main.js": "/Metrics-WebApp/static/js/main.5c2124cb.js",
     "static/media/globe.webp": "/Metrics-WebApp/static/media/globe.cd6ea6b3e6ec8e05f8a0.webp",
     "index.html": "/Metrics-WebApp/index.html",
     "main.177dcf51.css.map": "/Metrics-WebApp/static/css/main.177dcf51.css.map",
-    "main.28cecacb.js.map": "/Metrics-WebApp/static/js/main.28cecacb.js.map"
+    "main.5c2124cb.js.map": "/Metrics-WebApp/static/js/main.5c2124cb.js.map"
   },
   "entrypoints": [
     "static/css/main.177dcf51.css",
-    "static/js/main.28cecacb.js"
+    "static/js/main.5c2124cb.js"
   ]
 }
