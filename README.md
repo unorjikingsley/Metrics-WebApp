@@ -88,7 +88,7 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://unorjikingsley.github.io/metrics-webapp/)
+- [Live Demo Link](https://globetrot.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,7 +198,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Speacial ShoutOut to the Nelson Sakwa(https://www.behance.net/sakwadesignstudio), creator of the design(https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+- Speacial ShoutOut to the [Nelson Sakwa](https://www.behance.net/sakwadesignstudio), creator of the [design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
