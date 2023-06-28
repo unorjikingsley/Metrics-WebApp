@@ -88,7 +88,7 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://unorjikingsley.github.io/Metrics-WebApp/)
+- [Live Demo Link](https://dev--admirable-buttercream-baa746.netlify.app/)
 
 - [Loom App Explaination](https://www.loom.com/share/4eadebd251fc43ecb15dfdcbc0796327?sid=09ac4b9b-e869-4515-a801-f5d8a8dd8d54)
 
