@@ -198,7 +198,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Thanks to all Microverse community
+- Speacial ShoutOut to the Nelson Sakwa(https://www.behance.net/sakwadesignstudio), creator of the design(https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
